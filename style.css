@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/404506.jpg");
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0%;
+    box-shadow: 5px 5px 5px grey;
+    background-color: #0e036d;
+    color: #a2b2e7;
+}
+.heading:hover{
+    color: #d5c6fa;
+}
+.note{
+    font-size: 15px;
+    color: rgb(215, 191, 236);
+}
+.cpf{
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    font-size: 17px;
+    background-color: #7209B7;
+    color: #dfc2f1;
+    width: 100%;
+    line-height: 2;
+}
+canvas{
+    border: 7px solid #4361EE;
+    border-radius: 35px;
+    box-shadow: 5px 5px 5px blue;
+}
